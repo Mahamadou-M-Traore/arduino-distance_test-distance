@@ -1,0 +1,4 @@
+chocolate_height_cm,expected_distance_cm,measured_distance_cm
+0,14.0,14.8
+3,11.0,11.5
+4,10.0,10.7
